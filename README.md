@@ -2,7 +2,7 @@
 
 ## About
 
-Assembly exercises for the final exam of the Computer Organization and Architecture course.
+Assembly exercises for final exam of Computer Organization and Architecture course.
 
 ## Technologies Used
 
